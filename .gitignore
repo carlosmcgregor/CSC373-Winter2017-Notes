@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.synctex.gz
+*.tex
+*.dvi
+figures
+notetaking
+.DS_Store
+notes
+repeated_squaring_binary_search.pdf
+karatsuba.pdf
